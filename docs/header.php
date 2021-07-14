@@ -22,9 +22,11 @@
   <script src="common.js"></script>
 </head>
 
-<body>
 
+
+<body>
   <div class="site-wrap">
+
     <header class="top-bar h-16 bg-red-300">
       <div class="container mx-auto flex h-full">
 
@@ -36,7 +38,7 @@
 
         <nav class="top-bar__list flex">
           <ul class="flex">
-            <li><a href="#" class="flex h-full items-center px-4">포트폴리오</a></li>
+            <li><a href="./portfolio.php" class="flex h-full items-center px-4">포트폴리오</a></li>
             <li><a href="#" class="flex h-full items-center px-4">메모</a></li>
             <li><a href="#" class="flex h-full items-center px-4">사진</a></li>
             <li><a href="#" class="flex h-full items-center px-4">안녕</a></li>
@@ -45,8 +47,5 @@
 
       </div>
     </header>
-  </div>
 
-</body>
-
-</html>
+    <main>
